@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="batch_run_cmd",
+    name="batch-run-cmd",
     version="0.0.1",
     author='Guanliang Meng',
     author_email='linzhi2012@gmail.com',
