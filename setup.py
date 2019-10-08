@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="batch-run-cmd",
-    version="0.0.1",
+    version="0.0.2",
     author='Guanliang Meng',
     author_email='linzhi2012@gmail.com',
     description="To run commands line by line, and check each exit status",
